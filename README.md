@@ -1,10 +1,10 @@
-# React Template App
-**A webpack setup / first React application for Epicodus 06.24.18**
+# React Tic Tac Toe
+**A React application for Epicodus 07.11.18**
 
-## By Bobby Martin
+## By Bobby Martin and Garnett Puett
 
 ## Description
-This is a basic React app that uses props, and propTypes eslint, styled-jsx, and hot-swap
+A React Redux app where you can play tic tac toe
 
 ## Setup Requirements
 
@@ -13,11 +13,11 @@ This is a basic React app that uses props, and propTypes eslint, styled-jsx, and
 * Run `npm start` to start the development server
 
 ## Technologies
-* React
+* React/Redux
 * JavaScript
 * CSS
 * Webpack
 
 This project uses the _MIT License_  
 
-&copy; **Bobby Martin** 2018
+&copy; **Bobby Martin & Garnett Puett** 2018
